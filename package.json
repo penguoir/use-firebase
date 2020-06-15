@@ -1,0 +1,26 @@
+{
+  "name": "use-firebase",
+  "version": "0.0.1",
+  "description": "A React hook for importing firebase dynamically",
+  "main": "index.js",
+  "repository": "https://github.com/penguoir/use-firebase",
+  "author": "penguoir",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^7.15.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^10.2.1",
+    "@babel/preset-react": "^7.10.1",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "react-test-renderer": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "prettier": "prettier . --write --ignore-path .gitignore",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  }
+}
