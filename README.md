@@ -47,7 +47,7 @@ export default () => {
 ## Installation
 
 ```
-npm install --save use-firebase
+npm install --save @penguoir/use-firebase
 ```
 
 # Api
