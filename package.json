@@ -1,5 +1,5 @@
 {
-  "name": "@penguoir/use-firebase",
+  "name": "use-firebase",
   "version": "0.0.2",
   "description": "A React hook for importing firebase dynamically",
   "main": "index.js",
